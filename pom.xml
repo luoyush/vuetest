@@ -12,6 +12,6 @@
         <artifactId>spring-start</artifactId>
     </parent>
     <build>
-        <finalName>vuetest</finalName>
+        <finalName>vuetest</finalName>  
     </build>
 </project>
